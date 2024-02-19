@@ -3,5 +3,9 @@ Trata-se de uma calculadora que converte o número decimal digitado pelo usuári
 
 ## Linguagem: 
 ### Python
-![logo python](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="logo python" width="300">
+
+
+
+
 
